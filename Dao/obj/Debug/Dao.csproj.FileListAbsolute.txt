@@ -1,0 +1,9 @@
+C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Dao\bin\Debug\Dao.dll
+C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Dao\bin\Debug\Dao.pdb
+C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Dao\bin\Debug\Entidades.dll
+C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Dao\bin\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Dao\obj\Debug\Dao.csproj.Up2Date
+C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Dao\obj\Debug\Dao.dll
+C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Dao\obj\Debug\Dao.pdb
