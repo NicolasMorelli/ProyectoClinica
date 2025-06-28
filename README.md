@@ -38,3 +38,10 @@ La base de datos fue modelada con claves foráneas, relaciones uno a muchos, val
 Se contempló la escalabilidad del sistema y la seguridad de acceso mediante sesiones y validación de usuarios.
 
 Este proyecto permitió consolidar conocimientos sobre el desarrollo de aplicaciones web completas con base de datos, aplicando lo aprendido en programación, diseño de interfaces, lógica empresarial y administración de bases de datos.
+
+Para la persistencia de datos se utilizó SQL Server a través de SQL Server Management Studio (SSMS).
+A continuación, se presenta el Diagrama Entidad-Relación (DER) que fue desarrollado para modelar la estructura de la base de datos del proyecto.
+![image](https://github.com/user-attachments/assets/0e4e194d-0e80-4f82-9456-88ea06e77c97)
+![image](https://github.com/user-attachments/assets/af036ad6-41aa-46f9-a4a5-c5a20d075181)
+
+
