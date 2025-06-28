@@ -1,0 +1,33 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code or JetBrains
+.vscode/
+.idea/
+
+# IIS Express
+.vs/
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Configs locales
+*.config.user
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+
+# Publicación
+publish/

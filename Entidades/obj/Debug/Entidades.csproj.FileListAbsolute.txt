@@ -1,6 +1,0 @@
-C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Entidades\bin\Debug\Entidades.dll
-C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Entidades\bin\Debug\Entidades.pdb
-C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
-C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Entidades\obj\Debug\Entidades.dll
-C:\Users\Nico\Desktop\FACULTAD TUP\MATERIAS\LABO 3\C#\ProyectoClinica-master\Entidades\obj\Debug\Entidades.pdb
